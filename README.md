@@ -1,5 +1,7 @@
+<h1> Lan File Transfer </h1>
+An application to send and receive files over LAN.
 
-Instructions : 
+<h4> Instructions </h4>
 	1) Change directory to source directory
 	2) source has following files :
 		node.cpp : implementing server side
@@ -15,8 +17,8 @@ Instructions :
 	6) Run user using
 		./user <request type s or r> <filename / filehash>
 
-Interface : 
-	
+<h4> Interface </h4>
+
 	For node.cpp
 
 		Running ./node <node-ID> requires ID of node to be bbrought up as command line argument
